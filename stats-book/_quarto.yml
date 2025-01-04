@@ -9,6 +9,7 @@ book:
     - index.qmd
     - intro.qmd
     - papers.qmd
+    - statistical-rethinking.qmd
     - notes.qmd
     - references.qmd
 
