@@ -1,6 +1,13 @@
 
 # Statistical Rethinking Notes
 
+## Links
+
+- https://bookdown.org/content/4857/geocentric-models.html
+- https://github.com/vincentarelbundock/rethinking2
+- https://vincentarelbundock.github.io/rethinking2/04.html
+- https://github.com/rmcelreath/rethinking/tree/master
+
 ## Geocentric Models (Chapter 4)
 
 ### Gaussian Model of Height
